@@ -64,3 +64,5 @@ while(agregar!="no") {
 
 alert("Su compra se ha realizado exitosamente! " + carrito.length + " productos por un total de $" + carrito.reduce((total, item) => total + item.preciototal, 0));
 console.log("Su compra se ha realizado exitosamente! " + carrito.length + " productos por un total de $" + carrito.reduce((total, item) => total + item.preciototal, 0))
+
+// me marie mucho con este codigo y seguro vos tambien, por favor serias muy amable de dar una correcion un poquito mas examinativa? muchas gracias!
